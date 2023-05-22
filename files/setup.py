@@ -11,10 +11,10 @@ setup(
     description='A python phishing script for login phishing, image phishing video phishing an many more!',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='KasRoudra',
-    author_email='kasroudrakrd@gmail.com',
+    author='MR.KK',
+    author_email='maramkarthik21@gmail.com',
     license="MIT",
-    url='https://github.com/KasRoudra/MaxPhisher/',
+    url='https://github.com/MR.KK/MaxPhisher/',
     scripts=['maxphisher'],
     install_requires=["requests", "bs4", "rich"]
 )
