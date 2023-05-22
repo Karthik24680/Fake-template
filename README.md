@@ -2,15 +2,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/MaxPhisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/MaxPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/MaxPhisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/MR.KK/MaxPhisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MR.KK/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MR.KK/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MR.KK/MaxPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MR.KK/MaxPhisher?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/MR.KK/MaxPhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-MR.KK-bule?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/Karthik24680/MaxPhisher```
 
 ##### Enter the directory
  - ```cd MaxPhisher```
@@ -49,7 +49,7 @@
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
+wget https://raw.githubusercontent.com/karthik24680/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
 
 ```
 
@@ -60,8 +60,8 @@ wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/maxphisher.py &
 
 ### Docker
 
- - `sudo docker pull kasroudra/maxphisher`
- - `sudo docker run --rm -it kasroudra/maxphisher`
+ - `sudo docker pull karthik24680/maxphisher`
+ - `sudo docker run --rm -it karthik24680/maxphisher`
 
 
 ### Support
@@ -166,7 +166,7 @@ If not found, php, ssh and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![MaxPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
+![MaxPhisher](https://raw.githubusercontent.com/Karthik24680/MaxPhisher/main/files/maxphisher.gif)
 
  
 ## Solution of common issues
@@ -184,21 +184,21 @@ If not found, php, ssh and python modoules will be installed on first run
 ###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
 
 ## Credits:
-[PyPhisher](https://github.com/KasRoudra/PyPhisher)
-[CamHacker](https://github.com/KasRoudra/CamHacker)
-[VidPhisher](https://github.com/KasRoudra/VidPhisher)
-[IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
+[PyPhisher](https://github.com/Karthik24680/PyPhisher)
+[CamHacker](https://github.com/Karthik24680/CamHacker)
+[VidPhisher](https://github.com/Karthik24680/VidPhisher)
+[IP-Tracker](https://github.com/Karthik24680/IP-Tracker)
 [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 [Seeker](https://github.com/thewhiteh4t/seeker)
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-Karthik24680-bule?style=for-the-badge&logo=github)](https://github.com/Karthik24680)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-MR.KK-green?style=for-the-badge&logo=gmail)](mailto:maramkarthik21@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-MR.KK-green?style=for-the-badge&logo=facebook)](https://facebook.com/maramkarthikreddy)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/MR.KK-green?style=for-the-badge&logo=messenger)](https://m.me/karthik24680)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+- [![Telegram](https://img.shields.io/badge/Telegram-MR.KK-indigo?style=for-the-badge&logo=telegram)](https://t.me/M.Karthik)
