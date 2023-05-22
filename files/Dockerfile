@@ -1,9 +1,9 @@
 # Dockerfile
 
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
-# Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
+# Author       : MR.KK
+# Github       : https://github.com/MR.KK
+# Messenger    : https://m.me/MR.KK
+# Email        : maramkarthik21@gmail.com
 # Date         : 08-09-2022
 # Main Language: Python
 
@@ -15,7 +15,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/MaxPhisher"
+LABEL MAINTAINER="https://github.com/MR.KK/MaxPhisher"
 
 # Working directory
 WORKDIR MaxPhisher/
@@ -34,6 +34,6 @@ CMD ["python3", "maxphisher.py", "--noupdate"]
 
 ## Wanna run it own? Try following commnads:
 
-## "sudo docker build . -t kasroudra/maxphisher:latest", "sudo docker run --rm -it kasroudra/maxphisher:latest"
+## "sudo docker build . -t MR.KK/maxphisher:latest", "sudo docker run --rm -it MR.KK/maxphisher:latest"
 
-## "sudo docker pull kasroudra/maxphisher", "sudo docker run --rm -it kasroudra/maxphisher"
+## "sudo docker pull MR.KK/maxphisher", "sudo docker run --rm -it MR.KK/maxphisher"
