@@ -197,7 +197,7 @@ If not found, php, ssh and python modoules will be installed on first run
 
 - [![Gmail](https://img.shields.io/badge/Gmail-MR.KK-green?style=for-the-badge&logo=gmail)](mailto:maramkarthik21@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-MR.KK-green?style=for-the-badge&logo=facebook)](https://facebook.com/maramkarthikreddy)
+- [![Facebook](https://img.shields.io/badge/Facebook-MR.KK-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100036766940182&mibextid=ZbWKwL)
 
 - [![Messenger](https://img.shields.io/badge/MR.KK-green?style=for-the-badge&logo=messenger)](https://m.me/karthik24680)
 
